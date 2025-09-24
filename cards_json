@@ -1,0 +1,12 @@
+[
+  { "name": "Smallest Rock", "maxHp": 10, "attack": 10, "ability": null },
+  { "name": "Smaller Rock", "maxHp": 20, "attack": 20, "ability": null },
+  { "name": "Small Rock", "maxHp": 30, "attack": 30, "ability": null },
+  { "name": "Rock", "maxHp": 40, "attack": 40, "ability": null },
+  { "name": "Big Rock", "maxHp": 50, "attack": 50, "ability": null },
+  { "name": "Bigger Rock", "maxHp": 60, "attack": 60, "ability": null },
+  { "name": "Biggest Rock", "maxHp": 70, "attack": 70, "ability": null },
+  { "name": "THE Rock", "maxHp": 300, "attack": 10, "ability": "search_rock", "passive": "max_bench5" },
+  { "name": "lick", "maxHP":180, "attack": 77,"ability": null},
+  { "name": "Aaron", "maxHP":151, "attack": 67,"ability": "opp_bench-2"}  
+]
